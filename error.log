@@ -1,0 +1,12 @@
+2019-10-25 19:46:15,977 - ERROR - log.py[:21] - error message
+2019-10-25 19:46:15,977 - CRITICAL - log.py[:22] - critical message
+2019-10-25 19:47:07,559 - ERROR - log.py[:21] - error message
+2019-10-25 19:47:07,559 - CRITICAL - log.py[:22] - critical message
+2019-10-25 19:47:24,033 - ERROR - log.py[:21] - error message
+2019-10-25 19:47:24,033 - CRITICAL - log.py[:22] - critical message
+2019-10-25 19:49:14,607 - ERROR - log.py[:21] - error message
+2019-10-25 19:49:14,607 - CRITICAL - log.py[:22] - critical message
+2019-10-26 15:21:05,225 - ERROR - log.py[:21] - error message
+2019-10-26 15:21:05,225 - CRITICAL - log.py[:22] - critical message
+2019-10-26 15:24:41,828 - ERROR - log.py[:21] - error message
+2019-10-26 15:24:41,828 - CRITICAL - log.py[:22] - critical message

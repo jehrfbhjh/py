@@ -1,0 +1,11 @@
+2019-10-26 15:11:56,481 - DEBUG - debug message
+2019-10-26 15:13:47,081 - DEBUG - debug message
+2019-10-26 15:15:05,867 - DEBUG - debug message
+2019-10-26 15:18:35,696 - DEBUG - debug message
+2019-10-26 15:18:51,253 - DEBUG - debug message
+2019-10-26 15:19:52,385 - DEBUG - debug message
+2019-10-26 15:21:05,224 - DEBUG - debug message
+2019-10-26 15:21:05,225 - INFO - info message
+2019-10-26 15:21:05,225 - WARNING - warning message
+2019-10-26 15:21:05,225 - ERROR - error message
+2019-10-26 15:21:05,225 - CRITICAL - critical message
